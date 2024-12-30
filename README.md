@@ -1,2 +1,4 @@
 
 Gunshot classifier - http://doi.org/10.34614/2023IYRC_S46
+
+On November 30th, 2021, at 12:51 PM, the Oakland County Sheriff responded to the first call of hundreds to come about potential shots fired at a nearby high school. Law enforcement reacted immediately, rushing to the high school by 12:55. But those minutes were too precious. 30 shots had been fired, 11 of which had been shot into people. It would be later found that day that this shooting at Oxford High School, Michigan had taken the lives of four people and the security that students once felt attending school. This high school was merely 15 minutes away from two of our team member’s schools and had resulted in a temporary shutting down of schools within the county until teachers and school administration had come up with an effective game plan to prevent such incidents.

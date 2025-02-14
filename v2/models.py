@@ -5,7 +5,7 @@ from tensorflow.keras import regularizers, optimizers
 from keras.callbacks import ModelCheckpoint
 from keras.models import load_model
 
-
+ 
 
 def ann_model_1(input_shape):
     

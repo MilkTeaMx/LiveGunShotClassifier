@@ -1,6 +1,6 @@
 import librosa as lb
 import numpy as np
-
+ 
 
 def spectrogram_feature_extractor(path):
     data, sample_rate = lb.load(path, res_type='kaiser_fast')
